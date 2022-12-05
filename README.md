@@ -1,3 +1,14 @@
+
+## Scalingo Deploy
+2
+​
+3
+[![Deploy on Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy?source=https://github.com/emilysaan/yash#master) 
+4
+​
+5
+----
+
 # CLONE BOT
 ### This repo is lite version of <a href="https://github.com/anasty17/mirror-leech-telegram-bot">MLTB</a>
 
