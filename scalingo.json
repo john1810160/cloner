@@ -1,11 +1,11 @@
 {
-	"name": "CloneBot_V2",
+	"name": "cloneleech",
 	"description": "Powerful Telegram Bot to clone your data in Google Drive",
-	"repository": "https://github.com/TheCaduceus/CloneBot_V2",
+	"repository": "https://github.com/emilysaan/yash",
 	"keywords": ["Rclone","Telegram","Gclone"],
-	"repository": "https://github.com/TheCaduceus/CloneBot_V2",
+	"repository": "https://github.com/emilysaan/yash",
         "website": "https://t.me/msgsuitechat",
-        "success_url": "https://github.com/TheCaduceus/CloneBot_V2/blob/master/README.md",
+        "success_url": "https://github.com/emilysaan/yash",
 	"env": {
 		"CONFIG_FILE_URL": {
 			"description": "Please Enter your Config.ini file Raw URL"
